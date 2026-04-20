@@ -1,0 +1,4 @@
+steps:-
+         build
+         test
+         deploy
